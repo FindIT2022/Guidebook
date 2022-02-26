@@ -1,5 +1,4 @@
-#Selamat datang di Guidebook Find IT! 2022
-
+# Selamat datang di Guidebook Find IT! 2022
 
 - [Guidebook Competitive Programming](http://guidebook.find-it.id/GB-Competitive_Programming.pdf)
 - [Guidebook Capture The Flag](http://guidebook.find-it.id/GB-Capture-The-Flag.pdf)
